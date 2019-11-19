@@ -1,0 +1,223 @@
+
+
+.section {
+    position: relative;
+    width:100%;
+    height:100vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    overflow: hidden;
+  
+  }
+  
+  .video-container {
+    position: absolute;
+    top: 0;
+    left:0;
+    width: 100%;
+  
+  }
+  
+  .header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    padding: 30px;
+    display: block;
+    width: 100%;
+  
+  }
+  
+  .header a:hover {
+    color: #ffdb00;
+  }
+  
+  .container-fluid {
+  
+  margin-left: 0px;
+  
+  }
+  
+  .col-sm-3 {
+    width: 25%;
+    
+    
+  }
+  .video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: block;
+    width: 100%;
+    object-fit: cover;
+  
+  }
+  
+  
+  .a {
+    text-decoration: none;
+  }
+  
+  
+  .video-content {
+    
+    bottom: 0;
+  }
+  
+  .container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  .row {
+  
+      margin-right: -15px;
+      margin-left: -15px;
+  }
+  
+  
+  .video-content p, span {
+     color:#ffffff;;
+     font-size: 2em;
+     font-family: Raleway,sans-serif;
+      margin-bottom: 30px;
+      font-weight: 200;
+      letter-spacing: -2px;
+    
+  }
+  
+  .next-content {
+    background-color: #ffdb00;
+  
+  }
+  .container-fluid {
+      padding-right: 15px;
+      padding-left: 15px;
+      margin-right: auto;
+      margin-left: auto;
+  }
+  .icon-row {
+    margin-bottom: 30px;
+
+  }
+  
+  .center-align {
+    text-align: center;
+  }
+  .icon-row img {
+    float: right;
+  }
+  
+  
+  .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+    position: relative;
+    min-height: 5px;
+    padding-right: 15px;
+    padding-left: 20px;
+  }
+  
+  
+  .main-nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: right;
+    text-decoration: none;
+    
+  }
+  
+  .main-nav ul li {
+  
+    float: left;
+  
+    display: inline;
+    text-decoration: none;
+  }
+  
+  .main-nav ul li:first-child a {
+    padding-left: 0;
+    text-decoration: none;
+  }
+  
+  .main-nav ul li a {
+    padding-left: 40px;
+    text-decoration: none;
+  }
+  
+  .main-nav ul li a {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 800;
+    padding-left: 60px;
+    font-size: 90%;
+    letter-spacing: .8px;
+    text-decoration: none;
+  }
+  
+  .article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+    text-decoration: none;
+  }
+  
+               /** ------------------------------------             footer css           ----------------------------------------  */
+  
+  
+  .footer {
+    background: #040405;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(4, 4, 5);
+    padding: 120px 0 60px 0;
+  }
+  
+  .footer ul {
+    padding: 0;
+    text-decoration: none;
+  }
+  .row {
+    margin-right: -15px;
+    margin-left: -15px;
+    text-decoration: none;
+  }
+  
+  .footer ul li a {
+    color: #ffffff;
+    padding: 0 30px;
+    text-decoration: none;
+    list-style: none;
+  
+  }
+  
+  .footer ul li {
+    font-size: 1.25em;
+    list-style: none;
+  }
+  
+  .footer a:hover {
+    color: #ffdb00;
+  }
+  
+  .footer .fa-instagram {
+    font-size: 4em;
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  .footer p {
+    font-size: 110%;
+    color: #ffffff;
+    opacity: .5;
+    text-decoration: none;
+  }
+  
