@@ -1,4 +1,7 @@
                                      Fit ‘ o Eat -- Achieve Your Personel Fitness Goals.
+                                     
+                                  Open App: https://fitnessplanner-tracker-app.herokuapp.com/
+
                             
        
                             
@@ -7,5 +10,4 @@
                             3. BMR Calculator.
                             4. Basic MVP .
 
-                            
-                                   Open App: https://fitnessplanner-tracker-app.herokuapp.com/
+                      
