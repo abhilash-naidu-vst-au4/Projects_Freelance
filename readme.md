@@ -1,7 +1,7 @@
 
                                      Fit ‘ o Eat -- Achieve Your Personel Fitness Goals.
                                      
-                                  Open App: https://fitnessplanner-tracker-app.herokuapp.com/
+Open App: https://fitnessplanner-tracker-app.herokuapp.com/
 
                             
        
