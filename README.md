@@ -1,5 +1,6 @@
                                      Fit ‘ o Eat -- Achieve Your Personel Fitness Goals.
-                            OPEN APP : https://fitnessplanner-tracker-app.herokuapp.com/
+                            
+                            Open App: https://fitnessplanner-tracker-app.herokuapp.com/
                             
                             1. Daily activity record with Calorie Counter.
                             2. BMI Calculator.
