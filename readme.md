@@ -10,6 +10,6 @@
   2. BMI Calculator.
   3. BMR Calculator.
   4. Basic MVP.
-  5. Newsletter to E-Mail using FormSpree: https://formspree.io/
+  5. Newsletter to E-Mail using [FormSpree](https://formspree.io/)
 
                       
